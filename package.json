@@ -1,9 +1,9 @@
 {
-  "name": "com.pylonproducts.wifiwizard",
+  "name": "rmx.wifi.wizard",
   "version": "0.2.12",
   "description": "This plugin allows Phonegap applications to manage Wifi connections.",
   "cordova": {
-    "id": "com.pylonproducts.wifiwizard",
+    "id": "rmx.wifi.wizard",
     "platforms": [
       "android",
       "ios"

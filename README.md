@@ -18,11 +18,11 @@ iOS has limited functionality, as Apple's WifiManager equivalent is only availab
 
 #### Master
 
-Run `phonegap plugin install https://github.com/parsonsmatt/WifiWizard.git`. Please note that the plugin is in active development, and this will pull the most recent commits.
+Run `phonegap plugin install https://github.com/raphrmx/WifiWizard.git`. Please note that the plugin is in active development, and this will pull the most recent commits.
 
 #### Releases
 
-Run `cordova plugin add wifiwizard`. This will get the latest release of the plugin.
+Run `cordova plugin add https://github.com/raphrmx/WifiWizard.git`. This will get the latest release of the plugin.
 
 ### Usage from within Cordova/Phonegap:
 
